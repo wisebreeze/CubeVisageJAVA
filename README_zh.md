@@ -10,9 +10,9 @@
 ## 特别鸣谢
 立方之窗 UI JAVA 版根据对应的协议规定使用了这些资源：
 
-[思源黑体](https://github.com/adobe-fonts/source-han-sans) (OFL 协议)
-[No Dark Inventory Overlay](https://modrinth.com/resourcepack/no-dark-inventory-overlay) (MIT 协议)
+- [思源黑体](https://github.com/adobe-fonts/source-han-sans) (OFL 协议)
+- [No Dark Inventory Overlay](https://modrinth.com/resourcepack/no-dark-inventory-overlay) (MIT 协议)
 
 ## 协议
-[CubeVisage User Agreement (English)](https://github.com/wisebreeze/CubeVisageJAVA/blob/main/LICENSE.md)
+[CubeVisage User Agreement (English)](https://github.com/wisebreeze/CubeVisageJAVA/blob/main/LICENSE.md)<br>
 [立方之窗用户协议 (简体中文)](https://github.com/wisebreeze/CubeVisageJAVA/blob/main/LICENSE_zh.md)
