@@ -1,1 +1,15 @@
-{"pack":{"description":[{"color":"#ffffff","text":"snapshot 4"},{"text":" | by "},{"underlined":true,"text":"wisebreeze"},{"color":"#b1b1b1","underlined":false,"text":"\nSpecial thanks: Source Sans, No Dark Inventory Overlay"}],"supported_formats":{"min_inclusive":16,"max_inclusive":100000000},"pack_format":16}}
+{
+  "pack": {
+    "description": [
+      {"color": "#ffffff","text": "Minecraft 1.21.5+"},
+      {"text": " | by "},
+      {"underlined": true,"text": "wisebreeze"},
+      {"color": "#b1b1b1","underlined": false,"text": "\nThanks: Source Sans, No Dark Inventory Overlay"}
+    ],
+    "supported_formats": {
+      "min_inclusive": 16,
+      "max_inclusive": 32767
+    },
+    "pack_format": 16
+  }
+}
